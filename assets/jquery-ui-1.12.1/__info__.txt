@@ -1,0 +1,1 @@
+Directory includes jQueryUI 1.12.1 and corresponding themes archive.
